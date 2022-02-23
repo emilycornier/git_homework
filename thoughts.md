@@ -1,6 +1,5 @@
 1. Taking good notes
-2. Organized calendar
-3. Reviewing lessons
-4. Googling answers
-5. SO to my bf AJ
-6. SO to my cat O'Mally
+2. Reviewing lessons
+3. Googling answers
+4. SO to my bf AJ
+5. SO to my cat O'Mally
